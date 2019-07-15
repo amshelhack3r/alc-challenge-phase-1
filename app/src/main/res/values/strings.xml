@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Alc_challenge</string>
+    <string name="heading">Welcome to ALC 4.0</string>
+    <string name="btn1">About ALC</string>
+    <string name="btn2">My profile</string>
+    <string name="name">Samuel Njoroge</string>
+    <string name="track_placeholder">Track</string>
+    <string name="track_value">Android</string>
+    <string name="country_placeholder">Country</string>
+    <string name="country_value">Kenya</string>
+    <string name="email_placeholder">Email</string>
+    <string name="email_value">amshelhack3r@gmail.com</string>
+    <string name="phone_placeholder">Phone Number</string>
+    <string name="phone_value">0716276879</string>
+    <string name="slack_placeholder">Slack Username</string>
+    <string name="slack_value">Samuel kanyi</string>
+    <string name="content_image">Profile picture</string>
+</resources>
